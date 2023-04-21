@@ -9,7 +9,7 @@
 			Console.Write(arr1[i] + " ");
 		Console.WriteLine("\n");
 		
-		Console.WriteLine("Новый массив массив: ");
+		Console.WriteLine("Новый массив: ");
         
 		for(int i=0; i < arr1.Length; i++)
       {
